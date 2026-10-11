@@ -1,0 +1,14 @@
+
+Item,Value
+Raw rows,12001
+Raw columns,9
+Columns removed,Unnamed: 7; Unnamed: 8
+Missing values after cleaning,0
+Fault rows,5496
+No-fault rows,6505
+Training rows,7200
+Validation rows,2400
+Test rows,2401
+Training fault fraction,0.4607
+Validation fault fraction,0.4512
+Test fault fraction,0.4565
